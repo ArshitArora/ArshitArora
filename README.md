@@ -3,17 +3,17 @@
 
 Welcome to my GitHub profile, where AI meets sarcasm and data science is just a sidekick. 🤖💁‍♂️
 
-🧠 AI enthusiast with a knack for data science and web development.
+- 🧠 AI enthusiast with a knack for data science and web development.
 
-💡 Superpowers: AI Wizardry, Data Sorcery, and Web Development Whiz.
+- 💡 Superpowers: AI Wizardry, Data Sorcery, and Web Development Whiz.
 
-🌟 Projects & Contributions: Showcasing mind-bending AI experiments, data wizardry, and quirky web apps.
+- 🌟 Projects & Contributions: Showcasing mind-bending AI experiments, data wizardry, and quirky web apps.
 
-🤖 Code Philosophy: Embracing imperfection and injecting sarcasm into my lines of code.
+- 🤖 Code Philosophy: Embracing imperfection and injecting sarcasm into my lines of code.
 
-📚 Learning Journey: Constantly expanding my AI and data science repertoire.
+- 📚 Learning Journey: Constantly expanding my AI and data science repertoire.
 
-📫 Get in Touch: Connect with me through GitHub or drop a sarcastic email.
+- 📫 Get in Touch: Connect with me through GitHub or drop a sarcastic email.
 
 Let's add humor and sarcasm to coding and create something extraordinary! 🎩✨
 
