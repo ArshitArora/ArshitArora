@@ -20,11 +20,22 @@ Welcome to my GitHub profile, where AI meets sarcasm and data science is just a 
 
 Let's add humor and sarcasm to coding and create something extraordinary! 🎩✨
 
-<p align="center">
-  <img src="Studio_Project.gif" width="4000" alt="Hi, I'm Arshit 👋 I'm an 🚀 AI/ML Enthusiast 🚀❤ Happy To Connect ❤">
- 
+javascript
+const Arshit = {
+  pronouns: "He" | "him",
+  code: [Java, Python, C, C++, PHP, Javascript, HTML, CSS],
+  technologies_frameworks: [Django, Flask, React Native, Selenium, PuTTY, Scrappy, Beautiful Soup],
+  technical_skills: [Data Structures and Algorithms, OOPS, APIs, Database Querying, Agile Scrum],
+  modeling_and_analysis: [Machine Learning, Deep Learning, Natural Language Processing],
+  dev_tools: [Virtual Box, Power BI, Android Studio, MS Office, H2O.ai, Git, VS Code, BitBucket, Trello],
+  dbms: [MySQL, PostgreSQL, MongoDB],
+  libraries: [ScikitLearn, TensorFlow, Keras],
+  soft_skills: [Time Management, Problem Solving Skills, Adaptability & Flexibility, Multitasking,Communication Skills],
   
-</p>
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on DSA and React"
+}
+```
 
 <!--
 **ArshitArora/ArshitArora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
