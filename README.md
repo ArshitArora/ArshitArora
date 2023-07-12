@@ -1,5 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
+
+
 ### 👋 Hey there, fellow human! 👽
 
 Welcome to my GitHub profile, where AI meets sarcasm and data science is just a sidekick. 🤖💁‍♂️
@@ -17,6 +19,12 @@ Welcome to my GitHub profile, where AI meets sarcasm and data science is just a 
 - 📫 Get in Touch: Connect with me through GitHub or drop a sarcastic email.
 
 Let's add humor and sarcasm to coding and create something extraordinary! 🎩✨
+
+<p align="center">
+  <img src="Studio_Project.gif" width="4000" alt="Hi, I'm Arshit 👋 I'm an 🚀 AI/ML Enthusiast 🚀❤ Happy To Connect ❤">
+ 
+  
+</p>
 
 <!--
 **ArshitArora/ArshitArora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
