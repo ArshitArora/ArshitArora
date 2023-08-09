@@ -22,9 +22,7 @@ Welcome to my GitHub profile, where AI meets sarcasm and data science is just a 
 Let's add humor and sarcasm to coding and create something extraordinary! 🎩✨
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delicate-jerk&label=Profile%20views&color=0e75b6&style=flat" alt="delicate-jerk" /> </p>
+<h3 align="center">A passionate AI-Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
