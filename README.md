@@ -24,9 +24,12 @@ Let's add humor and sarcasm to coding and create something extraordinary! ðŸŽ©âœ
 
 <h3 align="center">A passionate AI-Developer</h3>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arshit arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshit arora" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arshit-arora-1618811b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshit-arora-1618811b2" height="30" width="40" /></a>
+<a href="https://instagram.com/_https.arshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_https.arshit" height="30" width="40" /></a>
+<a href="https://medium.com/@arshit-96339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arshit-96339" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
