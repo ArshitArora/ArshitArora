@@ -1,5 +1,7 @@
 <!--[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]() -->
 
+<!--![BEPb's github activity graph](https://raw.githubusercontent.com/Delicate-Jerk/Delicate-Jerk/output/github-contribution-grid-snake.svg) -->
+
 <img src="https://imgur.com/gqV1wKh.gif" height=480  width=1000>
 
 
