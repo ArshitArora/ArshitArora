@@ -51,4 +51,4 @@ Let's add humor and sarcasm to coding and create something extraordinary! ğŸ©âœ
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=delicate-jerk&show_icons=true&locale=en&layout=compact" alt="delicate-jerk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshitArora&show_icons=true&locale=en&layout=compact" alt="delicate-jerk" /></p>
